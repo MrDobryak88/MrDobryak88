@@ -5,7 +5,7 @@
 - 📫 How to reach me никак
 - 😄 Pronouns: ...
 - ⚡ Fun fact: я 3 года назад не имел понятие что такое переменные
-  - ХЗ что тут писать программист Java, и других языков
+  - [Сайт с портфолии](https://mrdobryak88.github.io/?t=4)
   - Хочу лишь СЧАСТЬЕ 
 <!---
 MrDobryak88/MrDobryak88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
