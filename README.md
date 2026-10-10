@@ -22,17 +22,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrDobryak88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&locale=ru" alt="My GitHub Stats" height="165"/>
 
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrDobryak88&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ## 💬 About Me
 
-- 🌱 **Currently Learning:** Advanced Java Libraries & English Language
-- 👀 **Interests:** Roblox Development, Music Production, Political Analysis
+- 🌱 **Currently Learning:** Advanced Java Libraries 
+- 👀 **Interests:** Roblox gaming, Music Production, Political Analysis
 - 💞️ **Collaboration:** Open for interesting backend projects (but mostly solo coding now)
-- 📫 **How to reach me:** Никак 
 - ⚡ **Fun Fact:** 4 года назад я не имел понятия, что такое переменные. 
 - ✨ **Philosophy:** Хочу лишь СЧАСТЬЕ
 
