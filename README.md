@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет, я Тимур (@MrDobryak88)
+# 👋 Привет, я Темура (@MrDobryak88)
 
 ### *Backend Developer | Java Enthusiast | Path to Genius*
 
