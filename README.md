@@ -11,5 +11,9 @@
 MrDobryak88/MrDobryak88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=MrDobryak88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="My GitHub Stats" height="165"/>
+  </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDobryak88)](https://github.com/anuraghazra/github-readme-stats)
+</div>
